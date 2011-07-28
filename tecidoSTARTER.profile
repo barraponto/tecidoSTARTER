@@ -33,6 +33,12 @@ function tecidoSTARTER_profile_modules() {
     //date modules
     //'date_api', 'date', 'date_timezone', 'date_popup', 'calendar', 'jquery_ui',
 
+    //profile modules
+    //'content_profile', 'context_content_profile',
+
+    //geo modules
+    //'openlayers', 'openlayers_cck', 'openlayers_views', 'openlayers_geocoder',
+
     //wysiwyg modules
     //'wysiwyg',
 
