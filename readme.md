@@ -1,7 +1,7 @@
 Dependencies
 ============
 
-Tecido Starter is based on Tecido Starter Kit: https://github.com/barraponto/tecidoSTARTER
+Tecido Starter is based on tecidoSTARTER: https://github.com/barraponto/tecidoSTARTER
 
 In order to build Tecido Starter Kit, Drush and Drush Make must be 
 installed on your computer. The easiest way is to download drush from

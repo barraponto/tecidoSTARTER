@@ -60,8 +60,8 @@ function tecidoSTARTER_profile_modules() {
  */
 function tecidoSTARTER_profile_details() {
   return array(
-    'name' => 'Tecido Starter Kit',
-    'description' => 'Select this profile to have Tecido Starter Kit installed.'
+    'name' => 'Tecido Starter',
+    'description' => 'Select this profile to have Tecido Starter installed.'
   );
 }
 
