@@ -15,7 +15,8 @@ projects[] = features
 projects[] = pathauto
 projects[] = views
 projects[] = ctools
-projects[] = strongarm
+projects[strongarm] = 2.0
+projects[strongarm][patch][] = http://drupal.org/files/issues/792472_15_node_pipe.patch 
 
 ;Drupal framework extensions
 projects[] = adminrole
