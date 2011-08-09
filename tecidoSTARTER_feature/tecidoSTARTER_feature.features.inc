@@ -16,7 +16,7 @@ function tecidoSTARTER_feature_ctools_plugin_api() {
 function tecidoSTARTER_feature_node_info() {
   $items = array(
     'tecidoSTARTER_feature' => array(
-      'name' => t('Fabric'),
+      'name' => t('TecidoSTARTER'),
       'module' => 'features',
       'description' => '',
       'has_title' => '1',
