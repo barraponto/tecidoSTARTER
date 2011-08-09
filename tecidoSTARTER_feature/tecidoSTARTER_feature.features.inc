@@ -3,7 +3,7 @@
 /**
  * Implementation of hook_ctools_plugin_api().
  */
-function fabric_feature_ctools_plugin_api() {
+function tecidoSTARTER_feature_ctools_plugin_api() {
   list($module, $api) = func_get_args();
   if ($module == "strongarm" && $api == "strongarm") {
     return array("version" => 1);
@@ -13,9 +13,9 @@ function fabric_feature_ctools_plugin_api() {
 /**
  * Implementation of hook_node_info().
  */
-function fabric_feature_node_info() {
+function tecidoSTARTER_feature_node_info() {
   $items = array(
-    'fabric_feature' => array(
+    'tecidoSTARTER_feature' => array(
       'name' => t('Fabric'),
       'module' => 'features',
       'description' => '',
