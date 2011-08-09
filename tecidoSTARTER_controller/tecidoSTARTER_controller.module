@@ -1,0 +1,3 @@
+<?php
+
+include_once('tecidoSTARTER_controller.features.inc');

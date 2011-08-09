@@ -1,0 +1,11 @@
+<?php
+
+function tecidoSTARTER_controller_install() {
+  module_load_include('inc', 'tecidoSTARTER_controller', 'tecidoSTARTER_controller.strongarm');
+
+  $variables = tecidoSTARTER_controller_strongarm();
+
+  foreach ($variables as $variable) {
+    variable_set($variable->name, $variable->value);
+  }
+}
