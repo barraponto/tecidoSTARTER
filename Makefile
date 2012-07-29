@@ -1,4 +1,4 @@
-ROOT = `pwd`
+ROOT := $(shell pwd)
 
 all:
 	git submodule update --init --recursive
