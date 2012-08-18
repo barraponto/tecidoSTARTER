@@ -7,3 +7,9 @@
 [submodule "modules/libraries"]
 	path = modules/libraries
 	url = git://git.drupal.org/project/libraries.git
+[submodule "modules/captcha"]
+	path = modules/captcha
+	url = git://git.drupal.org/project/captcha.git
+[submodule "modules/recaptcha"]
+	path = modules/recaptcha
+	url = git://git.drupal.org/project/recaptcha.git
