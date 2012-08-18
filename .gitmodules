@@ -4,3 +4,6 @@
 [submodule "modules/git_deploy"]
 	path = modules/git_deploy
 	url = git://git.drupal.org/project/git_deploy.git
+[submodule "modules/libraries"]
+	path = modules/libraries
+	url = git://git.drupal.org/project/libraries.git
