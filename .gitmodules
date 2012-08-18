@@ -7,3 +7,12 @@
 [submodule "modules/libraries"]
 	path = modules/libraries
 	url = git://git.drupal.org/project/libraries.git
+[submodule "profiles/l10n_install"]
+	path = profiles/l10n_install
+	url = git://git.drupal.org/project/l10n_install.git
+[submodule "modules/l10n_client"]
+	path = modules/l10n_client
+	url = git://git.drupal.org/project/l10n_client.git
+[submodule "modules/l10n_update"]
+	path = modules/l10n_update
+	url = git://git.drupal.org/project/l10n_update.git
