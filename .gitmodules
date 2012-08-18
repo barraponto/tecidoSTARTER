@@ -7,3 +7,9 @@
 [submodule "modules/libraries"]
 	path = modules/libraries
 	url = git://git.drupal.org/project/libraries.git
+[submodule "modules/pathauto"]
+	path = modules/pathauto
+	url = git://git.drupal.org/project/pathauto.git
+[submodule "modules/token"]
+	path = modules/token
+	url = git://git.drupal.org/project/token.git
