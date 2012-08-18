@@ -3,7 +3,7 @@ root := $(shell pwd)
 all: update modules themes libraries profiles
 
 update:
-	git submodule update --init --recursive
+	git pull && git submodule sync && git submodule update --init --recursive
 
 modules:
 	if [ -d modules ];\
