@@ -19,3 +19,9 @@
 [submodule "modules/views"]
 	path = modules/views
 	url = git://git.drupal.org/project/views.git
+[submodule "modules/rules"]
+	path = modules/rules
+	url = git://git.drupal.org/project/rules.git
+[submodule "modules/entity"]
+	path = modules/entity
+	url = git://git.drupal.org/project/entity.git
