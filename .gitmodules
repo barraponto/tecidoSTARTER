@@ -7,3 +7,9 @@
 [submodule "modules/libraries"]
 	path = modules/libraries
 	url = git://git.drupal.org/project/libraries.git
+[submodule "modules/i18n"]
+	path = modules/i18n
+	url = git://git.drupal.org/project/i18n.git
+[submodule "modules/variable"]
+	path = modules/variable
+	url = git://git.drupal.org/project/variable.git
