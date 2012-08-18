@@ -13,3 +13,9 @@
 [submodule "modules/token"]
 	path = modules/token
 	url = git://git.drupal.org/project/token.git
+[submodule "modules/ctools"]
+	path = modules/ctools
+	url = git://git.drupal.org/project/ctools.git
+[submodule "modules/views"]
+	path = modules/views
+	url = git://git.drupal.org/project/views.git
